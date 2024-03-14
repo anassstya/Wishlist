@@ -1,0 +1,15 @@
+html{
+  font-size: 10px;
+}
+.main__pics{
+  display: flex;
+  list-style-type: none;
+  gap: 4rem;
+  justify-content: space-between;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+
+}
+.main__img{
+  width: 20rem;
+}
